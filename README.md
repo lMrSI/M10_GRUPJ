@@ -6,7 +6,9 @@
 - Ubicación: carrer de les camèlies, 25, Barcelona 08024
 
 - Logo:
- 
+
+    ![Logo](2.png)
+
 - Estrategia:
 
     1. Misión: Empresa creada para celebrar la fiesta mas grande que pueda tener una pareja y ofrecer comida de calidad para todo tipo eventos.
