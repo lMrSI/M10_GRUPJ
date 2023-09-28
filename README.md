@@ -39,3 +39,24 @@
 
 - Número de empleados y su rol: 
 
+
+    1. Planificación de bodas:
+    - Planificadores de bodas: 2-4 personas, dependiendo de la cantidad de bodas gestionadas.
+    - Coordinadores de eventos: 1-3 personas, según la cantidad de eventos simultáneos.
+
+    2. Catering:
+    - Personal de cocina: 4-8 personas, incluyendo cocineros y chefs.
+    - Personal de servicio: 6-12 personas, incluyendo camareros y personal de montaje/desmontaje.
+
+    3. Ventas y marketing:
+    - Gerente de ventas: 1 persona.
+    - Representantes de ventas/marketing: 2-4 personas.
+
+    4. Logística y transporte:
+    - Personal de logística: 2-4 personas.
+
+    5. Administración y finanzas:
+    - Personal de administración y finanzas: 2-4 personas.
+
+    6. Recursos humanos y atención al cliente:
+    - Personal de recursos humanos y atención al cliente: 1-2 personas.
