@@ -30,7 +30,7 @@
         - Regulaciones y permisos: Es importante conocer y cumplir con todas las regulaciones y requisitos legales relacionados con la planificación de eventos y el catering en Barcelona. Esto incluye permisos para la manipulación de alimentos, licencias comerciales y cualquier regulación específica para eventos.
 
 
-    5. El tamaño de una empresa: Creo que somos una empresa de crecimiento Sostenible (Mediana a Grande) que con el tiempo, a medida que aumente la demanda de nuestros servicios. Esto podría incluir la contratación de más planificadores de bodas, cocineros, camareros y personal de logística para manejar múltiples eventos simultáneos.
+    5. El tamaño de una empresa: Somos una empresa de crecimiento Sostenible (Mediana a Grande) que con el tiempo, a medida que aumente la demanda de nuestros servicios. Esto podría incluir la contratación de más planificadores de bodas, cocineros, camareros y personal de logística para manejar múltiples eventos simultáneos.
 
 - Áreas funcionales: 
 
