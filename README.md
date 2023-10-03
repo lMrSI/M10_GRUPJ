@@ -33,9 +33,22 @@
 
     5. Logística: 
 
-- Necesidades de la empresa:  
+- Necesidades de la empresa:
 
-- Definir tipos de clientes: Parenas independientemente de la edad
+    1. Personal talentoso y calificado: Contratar personal con experiencia en planificación de bodas, coordinación de eventos y catering es fundamental. Esto incluye organizadores de bodas, chefs, proveedores de catering, floristas, diseñadores de interiores y otros profesionales relacionados.
+
+    2. Marketing y publicidad: desarrollar una sólida estrategia de marketing para llegar a su público objetivo es esencial. Esto puede incluir la creación de un sitio web atractivo, presencia en las redes sociales, asistencia a ferias de bodas, publicidad local y más.
+
+    3. Red de proveedores y socios: establecer relaciones con empresas de catering, floristas, empresas de alquiler de equipos, músicos, fotógrafos y otros proveedores de servicios es esencial para ofrecer una variedad de opciones y garantizar el éxito de sus eventos.
+
+    4. Equipos y suministros para el servicio de alimentos: Invierta en equipos y suministros de cocina necesarios para brindar un servicio de alimentos de alta calidad. Esto incluye utensilios de cocina, cubiertos, manteles, mobiliario para eventos y más.
+
+    5. Licencias y Permisos: Deberá cumplir con los requisitos legales y obtener las licencias y permisos necesarios para operar servicios de comida y realizar eventos. Esto puede incluir licencias para alimentos, licencias para eventos al aire libre y más.
+
+    6. Cocina y espacio adecuados: Dependiendo del tamaño del evento que planeas organizar, debes tener suficiente espacio en la cocina y un área adecuada para la preparación de alimentos. Además, es importante contar con instalaciones para celebrar bodas y eventos.
+
+
+- Definir tipos de clientes: Parejas independientemente de la edad
 
 - Número de empleados y su rol: 
 
