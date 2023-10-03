@@ -13,13 +13,24 @@
 
     1. Misión: Empresa creada para celebrar la fiesta mas grande que pueda tener una pareja y ofrecer comida de calidad para todo tipo eventos.
     
-    2. Visión: Llegar a tener una empresa que tenga varias sucursales a nivel nacional.
+    2. Visión: Llegar a tener una empresa que a futuro cuente con muchas sucursales a nivel nacional.
 
-    3. Valores: 
+    3. Valores: Brindar una exelencia en el servicio, la creatividad responsabilidad, satisfacción del cliente, colaboración, la integridad y innovación.  
 
     4. Análisis de mercado: 
 
-    5. El tamaño de una empresa:
+        - Demanda: Barcelona es un lugar popular para las bodas y eventos, lo que crea una demanda constante de servicios de planiicación de bodas y catering. El mercado incluye una amplia variedad de eventos, desde bodas íntimas hasta grandes eventos corporativos.
+
+        - Competencia: En Barcelona, existe una competencia significativa en el sector de bodas y catering. Varias empresas ya están establecidas y ofrecen servicios similares. Así que será importante realizar un análisis detallado de la competencia, identificando sus fortalezas y debilidades para diferenciarte de ellos.
+        
+        - Tendencias del mercado: Las tendencias actuales muestran una creciente demanda de bodas personalizadas y temáticas, así como un énfasis en la sostenibilidad y la comida de calidad en eventos. También se observa un aumento en la demanda de experiencias únicas para los invitados.
+
+        - Segmentación del mercado: El mercado se puede segmentar en función de diversos criterios, como el tipo de evento (bodas, eventos corporativos, fiestas privadas), el presupuesto del cliente y el estilo del evento (tradicional, moderno, temático). Comprender estas segmentaciones nos permitirá adaptar los servicios a diferentes tipos de clientes.
+
+        - Regulaciones y permisos: Es importante conocer y cumplir con todas las regulaciones y requisitos legales relacionados con la planificación de eventos y el catering en Barcelona. Esto incluye permisos para la manipulación de alimentos, licencias comerciales y cualquier regulación específica para eventos.
+
+
+    5. El tamaño de una empresa: Creo que somos una empresa de crecimiento Sostenible (Mediana a Grande) que con el tiempo, a medida que aumente la demanda de nuestros servicios. Esto podría incluir la contratación de más planificadores de bodas, cocineros, camareros y personal de logística para manejar múltiples eventos simultáneos.
 
 - Áreas funcionales: 
 
